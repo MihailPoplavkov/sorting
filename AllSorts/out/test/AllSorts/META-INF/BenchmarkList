@@ -1,0 +1,2 @@
+JMH S 9 bench.ben S 45 bench.generated.ben_measureBubbleSort_jmhTest S 17 measureBubbleSort S 10 Throughput E A 1 1 1 E E E E E E E E E E E E E E E E E 
+JMH S 22 bench.AverageTimeBench S 78 bench.generated.AverageTimeBench_measureFindAllOrderStatisticsImproved_jmhTest S 37 measureFindAllOrderStatisticsImproved S 11 AverageTime E A 1 1 1 E I 1 5 T 3 1 s E I 1 5 T 3 1 s E I 1 1 E E E E E E U 12 MICROSECONDS E E 
